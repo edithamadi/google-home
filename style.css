@@ -38,6 +38,7 @@ input[type=text]{
     height: auto;
     width: auto;
     background:transparent;
+    
 }
 
 .searchbuttons{
@@ -65,22 +66,23 @@ input[type=text]{
 
 }
 
-#search-icon{
+/* #search-icon > div{
     width: 15px;
     cursor: pointer;
-}
-
-#microphone-icon{
-    width: 25px;
-    cursor: pointer;
-}
-
-i {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+} */
 
-}
+/* #microphone-icon > div{
+    width: 25px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+} */
+
+
 
 footer {
     position: relative;
