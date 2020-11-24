@@ -66,21 +66,23 @@ input[type=text]{
 
 }
 
-/* #search-icon > div{
+#search-icon {
     width: 15px;
     cursor: pointer;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-} */
+} 
 
-/* #microphone-icon > div{
+
+
+#microphone-icon {
     width: 25px;
     cursor: pointer;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-} */
+}
 
 
 
@@ -136,7 +138,10 @@ li a{
     padding-bottom: 1px;
 }
 
-
+.kiswahili {
+    display: flex;
+    flex-direction: row;
+}
 
 
 
